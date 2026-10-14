@@ -335,7 +335,7 @@ In acceptance criteria, `source` contains only sources (`SRC-NN`). Unresolved qu
 |---|---|---|
 | Document | `CHG-YYYYMMDD-NN`, `DES-YYYYMMDD-NN` | Assigned by tools |
 | Item within a document | `C-NN` (change item), `Q-NN` (open question), `AC-NN` (acceptance criterion), `SRC-NN` (source) | Unique within the document. From another document, use `CHG-20261011-01/C-02` |
-| Requirements and design elements for new development | `FN-`, `BIZ-`, `RL-`, `EX-` (requirements); `SC-`, `EN-` (design) | Retain the v0.0.3 prefixes as defaults |
+| Requirements and design elements for new development | `FN-`, `BIZ-`, `RL-`, `EX-` (requirements); `SC-`, `EN-` (design) | Default prefixes (finalized in Stage B) |
 | Existing locations | `{doc}@{version} {locator}`, `{path}:{lines}@{commit}`, `decisions#{No}`, `records#{recordID}`, `request#{id}`, and the team's issue IDs | Check both location and version |
 
 Items that reference multiple entries are retained internally as arrays. In table cells, separate references with commas; display `—` when there are no references.

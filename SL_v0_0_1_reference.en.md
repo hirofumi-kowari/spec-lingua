@@ -189,7 +189,7 @@ Use `reflected` only for change specifications. Determine its display value acco
 | New-development design document | `DES-YYYYMMDD-NN` | Tools |
 | Change item / open question / acceptance criterion | `C-NN` / `Q-NN` / `AC-NN` | Tools; unique within the document |
 | Source | `SRC-NN` | Tools; defined in the source list under `scope` |
-| Requirements in new-development design documents | `FN-{category}{sequence}` (function), `BIZ-{category}{sequence}` (business rule), `RL-{name}` (role), `EX-{name}` (external integration) | Tools; retain the v0.0.3 prefixes as defaults |
+| Requirements in new-development design documents | `FN-{category}{sequence}` (function), `BIZ-{category}{sequence}` (business rule), `RL-{name}` (role), `EX-{name}` (external integration) | Tools; default prefixes (finalized in Stage B) |
 | Design elements in new-development design documents | `SC-{category}{sequence}` (screen), `EN-{sequence}` (entity) | Same as above |
 | Checklist item | `CK-{category}-NNN` | Extension-rule author |
 | Extension-rule item | `{rule item_prefix}-NN` | Tools; unique within the rule's namespace |

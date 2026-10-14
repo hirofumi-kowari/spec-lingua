@@ -29,9 +29,7 @@ SpecLingua defines *how the specification is prepared* before an AI-driven devel
 
 ## Roadmap
 
-1. Stage A: one real modification on an existing system, using the change specification and the inspection script. Revise the documents from what is learned.
-2. Stage B: new development and design-document-first modifications.
-3. Tools (`sl_check`, drafting skills) and a user guide follow the Stage A results.
+The documents are still a draft and will be reviewed and revised.
 
 ## License
 
